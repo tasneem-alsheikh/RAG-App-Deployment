@@ -1,5 +1,5 @@
 streamlit==1.43.0
-pip install faiss
+faiss
 numpy
 mistralai
 pandas

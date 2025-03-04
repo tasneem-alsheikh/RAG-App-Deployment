@@ -1,5 +1,5 @@
 streamlit==1.43.0
-faiss-cpu==1.7.2
+faiss
 numpy
 mistralai
 pandas

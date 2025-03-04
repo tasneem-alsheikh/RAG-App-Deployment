@@ -1,7 +1,3 @@
-import os
-os.system("pip install faiss-cpu==1.7.4")
-import faiss
-
 import streamlit as st
 import numpy as np
 import faiss
